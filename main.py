@@ -14,8 +14,9 @@ import pandas_datareader.data as web
 import numpy as np
 import datetime
 from matplotlib import pyplot as plt
+plt.rcParams["figure.figsize"] = (20,10)
 
-start = datetime.datetime(2017,6,14)
+start = datetime.datetime(2020,6,14)
 end   = datetime.datetime(2022,6,14)
 
 aemulus = web.DataReader("0181.KL","yahoo",start,end)['Close']
