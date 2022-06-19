@@ -16,7 +16,7 @@ $ pip install yfinance --upgrade --no-cache-dir
 - pandas
 
 ## Screenshot 
-![Alt text](https://user-images.githubusercontent.com/627237/174456667-a6f96e20-aafc-486c-b4d8-97956e330712.png)
+![Alt text](https://user-images.githubusercontent.com/627237/174488357-75046587-04f3-4ca4-b63c-6df279a929d5.png)
 
 ### P.S.
 
