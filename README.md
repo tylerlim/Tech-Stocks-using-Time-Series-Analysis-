@@ -1,5 +1,3 @@
-# Tech-Stocks-using-Time-Series-Analysis-
-
 # Malaysia Tech Stocks using Time Series Analysis
 Moving average of Malaysia stock market in Python using pandas, pandas_datareader, YFinance and datetime
 
